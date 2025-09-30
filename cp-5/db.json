@@ -1,0 +1,10 @@
+{
+  "usuarios": [
+    {
+      "id": "1",
+      "nome": "Administrador",
+      "nomeUsuario": "admin",
+      "email": "admin@fiap.com.br"
+    }
+  ]
+}
