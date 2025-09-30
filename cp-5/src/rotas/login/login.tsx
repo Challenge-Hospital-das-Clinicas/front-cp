@@ -40,7 +40,7 @@ export default function Login() {
       }
     } catch (error) {
       console.error("Ocorreu um erro no login:", error);
-      alert('Não foi possível conectar ao servidor. Verifique se o json-server está rodando.');
+      alert('Não foi possível conectar ao servidor.');
     }
   };
 
